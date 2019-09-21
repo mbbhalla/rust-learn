@@ -1,0 +1,23 @@
+[package]
+name = "pluralsight"
+version = "0.0.1"
+authors = ["Manuj Bhalla <mbbhalla@amazon.com>"]
+edition = "2018"
+
+[[bin]]
+name = "main_2_1"
+path = "src/main_2_1.rs"
+
+[[bin]]
+name = "main_2_2"
+path = "src/main_2_2.rs"
+
+[[bin]]
+name = "main_2_3"
+path = "src/main_2_3.rs"
+
+[[bin]]
+name = "main_2_5"
+path = "src/main_2_5.rs"
+
+[dependencies]
